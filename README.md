@@ -1,4 +1,4 @@
-# LLM Augmentation
+# LLM Augmentation (Winter 2024)
 
 Large Language Models boast an incredible breadth of knowledge in just about every domain. In this project, we will explore methods to augment LLMs with custom data and the ability to call functions, the ultimate goal being to improve their performance for specific domain-related tasks.
 
